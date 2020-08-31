@@ -1,0 +1,39 @@
+body{
+    margin: 0%;
+}
+.header{
+    text-align: center;
+}
+.contenedor{
+    background-color: lightgray;
+    position: relative;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.photo-card{
+    width: 700px;
+    height: 650px;
+    background-color: white;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin: 2px auto 45px auto;
+}
+.p-photo{
+    float: left;
+    padding-left: 10px;
+}
+.number{
+    float: right;
+    padding-right: 10px;
+    color: lightgray;
+}
+
+img{
+    width: 700px;
+    height: 530px;
+}
+
+.p-footer{
+    padding-left: 10px;
+    margin: 3px 3px 3px 3px;
+}
